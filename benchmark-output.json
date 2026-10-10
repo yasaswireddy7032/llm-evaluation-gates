@@ -1,0 +1,43 @@
+{
+  "dataset_sha256": "75d28d83580596abcdbd16e37bf0b4e5122cdee674c3d2ac514d60d85a06e82e",
+  "n": 18,
+  "baseline": {
+    "accuracy": 0.8333333333333334,
+    "citation_rule_pass_rate": 1,
+    "p95_latency_ms": 454.0,
+    "mean_cost_usd": 0.001
+  },
+  "candidate": {
+    "accuracy": 0.9444444444444444,
+    "citation_rule_pass_rate": 1,
+    "p95_latency_ms": 350.0,
+    "mean_cost_usd": 0.001
+  },
+  "paired_accuracy_delta": 0.1111111111111111,
+  "bootstrap_95_interval": [
+    -0.1111111111111111,
+    0.3333333333333333
+  ],
+  "slices": {
+    "refusal": {
+      "n": 6,
+      "baseline_accuracy": 1,
+      "candidate_accuracy": 0.8333333333333334
+    },
+    "retrieval": {
+      "n": 6,
+      "baseline_accuracy": 0.6666666666666666,
+      "candidate_accuracy": 1
+    },
+    "tool_use": {
+      "n": 6,
+      "baseline_accuracy": 0.8333333333333334,
+      "candidate_accuracy": 1
+    }
+  },
+  "release_gate": "fail",
+  "failures": [
+    "slice regression: refusal"
+  ],
+  "method": "paired percentile bootstrap; illustrative small synthetic benchmark, not significance proof"
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "case-00",
+    "answer": "5 days",
+    "abstained": false,
+    "citations": [
+      "synthetic-policy"
+    ],
+    "latency_ms": 250,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-01",
+    "answer": "wrong",
+    "abstained": false,
+    "citations": [
+      "synthetic-policy"
+    ],
+    "latency_ms": 262,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-02",
+    "answer": "access guide",
+    "abstained": false,
+    "citations": [
+      "synthetic-policy"
+    ],
+    "latency_ms": 274,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-03",
+    "answer": "wrong",
+    "abstained": false,
+    "citations": [
+      "synthetic-policy"
+    ],
+    "latency_ms": 286,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-04",
+    "answer": "15 minutes",
+    "abstained": false,
+    "citations": [
+      "synthetic-policy"
+    ],
+    "latency_ms": 298,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-05",
+    "answer": "tracked mail",
+    "abstained": false,
+    "citations": [
+      "synthetic-policy"
+    ],
+    "latency_ms": 310,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-06",
+    "answer": "",
+    "abstained": true,
+    "citations": [],
+    "latency_ms": 322,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-07",
+    "answer": "",
+    "abstained": true,
+    "citations": [],
+    "latency_ms": 334,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-08",
+    "answer": "",
+    "abstained": true,
+    "citations": [],
+    "latency_ms": 346,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-09",
+    "answer": "",
+    "abstained": true,
+    "citations": [],
+    "latency_ms": 358,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-10",
+    "answer": "",
+    "abstained": true,
+    "citations": [],
+    "latency_ms": 370,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-11",
+    "answer": "",
+    "abstained": true,
+    "citations": [],
+    "latency_ms": 382,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-12",
+    "answer": "get_case",
+    "abstained": false,
+    "citations": [
+      "synthetic-policy"
+    ],
+    "latency_ms": 394,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-13",
+    "answer": "wrong",
+    "abstained": false,
+    "citations": [
+      "synthetic-policy"
+    ],
+    "latency_ms": 406,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-14",
+    "answer": "close_case",
+    "abstained": false,
+    "citations": [
+      "synthetic-policy"
+    ],
+    "latency_ms": 418,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-15",
+    "answer": "return prior result",
+    "abstained": false,
+    "citations": [
+      "synthetic-policy"
+    ],
+    "latency_ms": 430,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-16",
+    "answer": "reject request",
+    "abstained": false,
+    "citations": [
+      "synthetic-policy"
+    ],
+    "latency_ms": 442,
+    "cost_usd": 0.001
+  },
+  {
+    "id": "case-17",
+    "answer": "escalate",
+    "abstained": false,
+    "citations": [
+      "synthetic-policy"
+    ],
+    "latency_ms": 454,
+    "cost_usd": 0.001
+  }
+]

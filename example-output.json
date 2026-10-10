@@ -1,0 +1,19 @@
+{
+  "metrics": {
+    "accuracy": 1,
+    "citation_validity": 1,
+    "coverage": 1,
+    "p95_latency_ms": 120.0,
+    "n": 1
+  },
+  "release_gate": "pass",
+  "rows": [
+    {
+      "id": "return",
+      "correct": true,
+      "citations_valid": true,
+      "missing": false,
+      "latency_ms": 120.0
+    }
+  ]
+}
